@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+}
+.chat_app{
+  height: 100vh;
+  background-color: bisque;
+  padding: 50px;
+}
+.chat_body{
+  height: 60%;
+  background-color: azure;
+}
